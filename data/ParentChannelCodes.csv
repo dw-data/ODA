@@ -1,0 +1,30 @@
+﻿ParentChannelCode;ChannelName_EN;ChannelNameFR
+10000;PUBLIC SECTOR INSTITUTIONS;INSTITUTIONS DU SECTEUR PUBLIC
+11000;Donor Government;Gouvernement du donneur
+12000;Recipient Government;Gouvernement du bénéficiaire
+13000;Third Country Government (Delegated co-operation);Gouvernement tiers (coopération déléguée)
+20000;NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY ;ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCIÉTÉ CIVILE
+21000;INTERNATIONAL NGO;ONG INTERNATIONALE
+22000;Donor country-based NGO;ONG basée dans un pays donneur
+23000;Developing country-based NGO ;ONG basée dans un pays en développement
+30000;PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS;PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX
+31000;Public-Private Partnership (PPP);Partenariat public-privé (PPP)
+32000;Network;RÉSEAU
+40000;MULTILATERAL ORGANISATIONS;ORGANISATIONS MULTILATÉRALES
+41000;United Nations agency, fund or commission (UN);Agence, fonds ou commission des Nations unies (NU)
+41100;UN entities (core contributions reportable in full);Entités des Nations Unies (contributions aux budgets reguliers à déclarer dans leur intégralité)
+41300;Other UN (Core Contributions Reportable in Part);Autres Nations Unies (contributions comptabilisables pour partie)
+41400;UN inter-agency pooled funds;Fonds communs interinstitutions des Nations Unies
+41500;UN single-agency thematic funds;Fonds thématiques uniques des Nations Unies
+41600;Existing UN channels not included in Standard I - UN entity- of the UN Data Cube reporting framework;Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU
+42000;European Union Institution (EU);Institution de l’Union européenne (UE) 
+43000;International Monetary Fund (IMF);Fonds monétaire international (FMI)
+44000;World Bank Group (WB);Groupe de la Banque mondiale (BM)
+46000;Regional Development Bank;Banque régionale de développement (BRD)
+47000;Other multilateral institution;Autre institution multilatérale
+51000;University, college or other teaching institution, research institute or think‑tank;Université, institut d’éducation et autre institution d’enseignement, institut de recherche ou groupe de réflexion
+60000;Private sector institution;Institutions du Secteur Privé
+61000;Private sector in donor country;Secteur privé du pays donneur
+62000;Private sector in recipient country;Secteur privé du pays bénéficiaire
+63000;Private sector in third country;Secteur privé d'un pays tiers
+90000;Other;Autre

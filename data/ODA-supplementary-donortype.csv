@@ -1,0 +1,155 @@
+donor,donor_type
+"Official Donors, Total",summary
+"DAC Countries, Total",summary
+"Non-DAC Countries, Total",summary
+"Multilateral Agencies, Total",summary
+"Private Donors, Total",summary
+Australia,bilateral
+Austria,bilateral
+Belgium,bilateral
+Canada,bilateral
+Czech Republic,bilateral
+Denmark,bilateral
+Finland,bilateral
+France,bilateral
+Germany,bilateral
+Greece,bilateral
+Hungary,bilateral
+Iceland,bilateral
+Ireland,bilateral
+Italy,bilateral
+Japan,bilateral
+Korea,bilateral
+Luxembourg,bilateral
+Netherlands,bilateral
+New Zealand,bilateral
+Norway,bilateral
+Poland,bilateral
+Portugal,bilateral
+Slovak Republic,bilateral
+Slovenia,bilateral
+Spain,bilateral
+Sweden,bilateral
+Switzerland,bilateral
+United Kingdom,bilateral
+United States,bilateral
+EU Institutions,bilateral
+Azerbaijan,bilateral
+Bulgaria,bilateral
+Croatia,bilateral
+Cyprus,bilateral
+Estonia,bilateral
+Israel,bilateral
+Kazakhstan,bilateral
+Kuwait,bilateral
+Latvia,bilateral
+Liechtenstein,bilateral
+Lithuania,bilateral
+Malta,bilateral
+Qatar,bilateral
+Romania,bilateral
+Russia,bilateral
+Saudi Arabia,bilateral
+Chinese Taipei,bilateral
+Thailand,bilateral
+Timor-Leste,bilateral
+Turkey,bilateral
+United Arab Emirates,bilateral
+Other donor countries,bilateral
+"International Monetary Fund, Total",multilateral
+IMF (Concessional Trust Funds),subgroup
+"Regional Development Banks, Total",summary
+"African Development Bank, Total",multilateral
+African Development Bank [AfDB],subgroup
+African Development Fund [AfDF],subgroup
+"Asian Development Bank, Total",multilateral
+Asian Development Bank [AsDB],subgroup
+"Inter-American Development Bank, Total",multilateral
+Inter-American Development Bank [IDB],subgroup
+Asian Infrastructure Investment Bank [AIIB],multilateral
+Caribbean Development Bank [CarDB],multilateral
+Council of Europe Development Bank [CEB],multilateral
+European Bank for Reconstruction and Development [EBRD],multilateral
+Islamic Development Bank [IsDB],multilateral
+"United Nations, Total",multilateral
+Food and Agriculture Organisation [FAO],subgroup
+International Atomic Energy Agency [IAEA],subgroup
+IFAD,subgroup
+International Labour Organisation [ILO],subgroup
+UNAIDS,subgroup
+UNDP,subgroup
+UNECE,subgroup
+UNEP,subgroup
+UNFPA,subgroup
+UNHCR,subgroup
+UNICEF,subgroup
+UN Institute for Disarmament Research [UNIDIR],subgroup
+UN Peacebuilding Fund [UNPBF],subgroup
+UNRWA,subgroup
+UNTA,subgroup
+WFP,subgroup
+World Health Organisation [WHO],subgroup
+World Tourism Organisation [UNWTO],subgroup
+"World Bank Group, Total",multilateral
+"World Bank, Total",subgroup
+International Bank for Reconstruction and Development [IBRD],subgroup
+International Development Association [IDA],subgroup
+International Finance Corporation [IFC],subgroup
+"Other Multilateral, Total",summary
+Adaptation Fund,multilateral
+Arab Bank for Economic Development in Africa [BADEA],multilateral
+Arab Fund (AFESD),multilateral
+Center of Excellence in Finance [CEF],multilateral
+Central Emergency Response Fund [CERF],multilateral
+Climate Investment Funds [CIF],multilateral
+Global Alliance for Vaccines and Immunization [GAVI],multilateral
+Global Environment Facility [GEF],multilateral
+Global Fund,multilateral
+Global Green Growth Institute [GGGI],multilateral
+Green Climate Fund [GCF],multilateral
+Montreal Protocol,multilateral
+Nordic Development Fund [NDF],multilateral
+OPEC Fund for International Development [OPEC Fund],multilateral
+OSCE,multilateral
+Other Multilaterals,multilateral
+Arcadia Fund,private
+Arcus Foundation,private
+BBVA Microfinance Foundation,private
+Bernard van Leer Foundation,private
+Bill & Melinda Gates Foundation,private
+Carnegie Corporation of New York,private
+Charity Projects Ltd (Comic Relief),private
+Children's Investment Fund Foundation,private
+Citi Foundation,private
+Conrad N. Hilton Foundation,private
+David & Lucile Packard Foundation,private
+Ford Foundation,private
+Gatsby Charitable Foundation,private
+Gordon and Betty Moore Foundation,private
+Grameen Crédit Agricole Foundation,private
+H&M Foundation,private
+IKEA Foundation,private
+Jacobs Foundation,private
+John D. & Catherine T. MacArthur Foundation,private
+La Caixa Banking Foundation,private
+Laudes Foundation,private
+LEGO Foundation,private
+Margaret A. Cargill Foundation,private
+MasterCard Foundation,private
+MAVA Foundation,private
+McKnight Foundation,private
+MetLife Foundation,private
+Michael & Susan Dell Foundation,private
+Oak Foundation,private
+"Omidyar Network Fund,Inc.",private
+Rockefeller Foundation,private
+Wellcome Trust,private
+William & Flora Hewlett Foundation,private
+World Diabetes Foundation,private
+Dutch Postcode Lottery,private
+Norwegian Postcode Lottery,private
+People's Postcode Lottery,private
+Swedish Postcode Lottery,private
+"G7 Countries, Total",private
+"DAC-EU Countries, Total",private
+"United Postcode Lotteries, Total",private

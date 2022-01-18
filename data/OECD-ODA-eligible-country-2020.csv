@@ -1,0 +1,142 @@
+ODA_eligible_country,iso3code,numericISOcode,eligibility
+Afghanistan,AFG,4,yes
+Democratic Peoples Republic of Korea,PRK,408,yes
+Armenia,ARM,51,yes
+Albania,ALB,8,yes
+Angola,AGO,24,yes
+Zimbabwe,ZWE,716,yes
+Bolivia,BOL,68,yes
+Algeria,DZA,12,yes
+Bangladesh,BGD,50,yes
+Cabo Verde,CPV,132,yes
+Antigua and Barbuda,ATG,28,yes
+Benin,BEN,204,yes
+Cameroon,CMR,120,yes
+Argentina,ARG,32,yes
+Bhutan,BTN,64,yes
+Congo,COG,178,yes
+Azerbaijan,AZE,31,yes
+Burkina Faso,BFA,854,yes
+Côte dIvoire,CIV,384,yes
+Belarus,BLR,112,yes
+Burundi,BDI,108,yes
+Egypt,EGY,818,yes
+Belize,BLZ,84,yes
+Cambodia,KHM,116,yes
+El Salvador,SLV,222,yes
+Bosnia and Herzegovina,BIH,70,yes
+Central African Republic,CAF,140,yes
+Eswatini,SWZ,748,yes
+Botswana,BWA,72,yes
+Chad,TCD,148,yes
+Georgia,GEO,268,yes
+Brazil,BRA,76,yes
+Comoros,COM,174,yes
+Ghana,GHA,288,yes
+China,CHN,156,yes
+DR Congo,COD,180,yes
+Guatemala,GTM,320,yes
+Colombia,COL,170,yes
+Djibouti,DJI,262,yes
+Honduras,HND,340,yes
+Costa Rica,CRI,188,yes
+Eritrea,ERI,232,yes
+India,IND,356,yes
+Cuba,CUB,192,yes
+Ethiopia,ETH,231,yes
+Indonesia,IDN,360,yes
+Dominica,DMA,212,yes
+Gambia,GMB,270,yes
+Jordan,JOR,400,yes
+Dominican Republic,DOM,214,yes
+Guinea,GIN,324,yes
+Kenya,KEN,404,yes
+Ecuador,ECU,218,yes
+Guinea-Bissau,GNB,624,yes
+Kosovo,,,yes
+Equatorial Guinea,GNQ,226,yes
+Haiti,HTI,332,yes
+Kyrgyzstan,KGZ,417,yes
+Fiji,FJI,242,yes
+Kiribati,KIR,296,yes
+Gabon,GAB,266,yes
+Laos,LAO,418,yes
+Moldova,MDA,498,yes
+Grenada,GRD,308,yes
+Lesotho,LSO,426,yes
+Mongolia,MNG,496,yes
+Guyana,GUY,328,yes
+Liberia,LBR,430,yes
+Morocco,MAR,504,yes
+Iran,IRN,364,yes
+Madagascar,MDG,450,yes
+Nicaragua,NIC,558,yes
+Iraq,IRQ,368,yes
+Malawi,MWI,454,yes
+Nigeria,NGA,566,yes
+Jamaica,JAM,388,yes
+Mali,MLI,466,yes
+Pakistan,PAK,586,yes
+Kazakhstan,KAZ,398,yes
+Mauritania,MRT,478,yes
+Papua New Guinea,PNG,598,yes
+Lebanon,LBN,422,yes
+Mozambique,MOZ,508,yes
+Philippines,PHL,608,yes
+Libya,LBY,434,yes
+Myanmar,MMR,104,yes
+Sri Lanka,LKA,144,yes
+Malaysia,MYS,458,yes
+Nepal,NPL,524,yes
+Syria,SYR,760,yes
+Maldives,MDV,462,yes
+Niger,NER,562,yes
+Tajikistan,TJK,762,yes
+Marshall Islands,MHL,584,yes
+Rwanda,RWA,646,yes
+Tokelau,TKL,772,yes
+Mauritius,MUS,480,yes
+Sao Tome and Principe,STP,678,yes
+Tunisia,TUN,788,yes
+Mexico,MEX,484,yes
+Senegal,SEN,686,yes
+Ukraine,UKR,804,yes
+Montenegro,MNE,499,yes
+Sierra Leone,SLE,694,yes
+Uzbekistan,UZB,860,yes
+Montserrat,MSR,500,yes
+Solomon Islands,SLB,90,yes
+Vietnam,VNM,704,yes
+Namibia,NAM,516,yes
+Somalia,SOM,706,yes
+West Bank and Gaza Strip,PSE,275,yes
+Nauru,NRU,520,yes
+South Sudan,SSD,728,yes
+Niue,NIU,570,yes
+Sudan,SDN,729,yes
+North Macedonia,MKD,807,yes
+Tanzania,TZA,834,yes
+Palau,PLW,585,yes
+Timor-Leste,TLS,626,yes
+Panama,PAN,591,yes
+Togo,TGO,768,yes
+Paraguay,PRY,600,yes
+Tuvalu,TUV,798,yes
+Peru,PER,604,yes
+Uganda,UGA,800,yes
+Saint Helena,SHN,654,yes
+Vanuatu,VUT,548,yes
+Saint Lucia,LCA,662,yes
+Yemen,YEM,887,yes
+Saint Vincent and the Grenadines,VCT,670,yes
+Zambia,ZMB,894,yes
+Samoa,WSM,882,yes
+Serbia,SRB,688,yes
+South Africa,ZAF,710,yes
+Suriname,SUR,740,yes
+Thailand,THA,764,yes
+Tonga,TON,776,yes
+Turkey,TUR,792,yes
+Turkmenistan,TKM,795,yes
+Venezuela,VEN,862,yes
+Wallis and Futuna,WLF,876
